@@ -37,7 +37,6 @@ dist/
 artifacts/
 models/
 checkpoints/
-submissions/
 base_cache/
 
 # Dataset (закрытый Kaggle)
