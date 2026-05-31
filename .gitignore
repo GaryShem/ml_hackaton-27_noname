@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode (если вдруг)
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# ML artifacts
+artifacts/
+models/
+checkpoints/
+submissions/
+base_cache/
+
+# Dataset (закрытый Kaggle)
+train.csv
+test.csv
+sample_submission.csv
+
+# Логи
+*.log
